@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/yadurani/platzi-store-jest.git"
   },
   "keywords": [
     "React",
@@ -24,7 +24,7 @@
     "React-router",
     "Redux"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Yadurani Lopez <yadu-lopez@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.7.2",
@@ -64,10 +64,6 @@
     "react-test-renderer": "16.12.0",
     "webpack-dev-server": "^3.9.0"
   },
-  "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
-  },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
